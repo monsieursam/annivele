@@ -7,7 +7,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Vous etes conviés à l'anniversaire de Eleonore Lugassy à 21h</p>
+        <p>
+          Vous etes conviés à l'anniversaire de l'espace de Eleonore Lugassy à
+          21h
+        </p>
         <h1>KAHN BOULOGNE</h1>
         <h2>100 AVENUE JEAN BAPTISTE CLEMENT 92100 BOULOGNE BILANCOURT</h2>
       </header>
