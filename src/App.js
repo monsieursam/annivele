@@ -1,24 +1,17 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p>Vous etes conviés à l'anniversaire de Eleonore Lugassy à 21h</p>
+        <h1>KAHN BOULOGNE</h1>
+        <h2>100 AVENUE JEAN BAPTISTE CLEMENT 92100 BOULOGNE BILANCOURT</h2>
       </header>
+      <section></section>
     </div>
   );
 }
